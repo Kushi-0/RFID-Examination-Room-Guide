@@ -10,11 +10,11 @@ A smart system that uses RFID and fingerprint authentication to guide students t
 2. Fingerprint is verified
 3. System checks database
 4. Exam room details are displayed
-5. ## 📷 Project Images
-![Fingerprint Success](images/images/image1.png)
+## 📷 Project Images
+![Fingerprint Success](image1.png)
 
-![Student Details](images/images/image2.png)
+![Student Details](image2.png)
 
-![RFID Error](images/images/image3.png)
+![RFID Error](image3.png)
 ##  Result
 The system successfully reduces manual errors and helps students quickly find their examination rooms.
