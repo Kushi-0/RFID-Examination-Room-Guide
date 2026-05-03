@@ -13,5 +13,7 @@ A smart system that uses RFID and fingerprint authentication to guide students t
 ##  Project Images
 ## 📷 Project Images
 Screenshot 2026-05-03 112719.png
+Screenshot 2026-05-03 112737.png
+Screenshot 2026-05-03 112756.png
 ##  Result
 The system successfully reduces manual errors and helps students quickly find their examination rooms.
